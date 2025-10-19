@@ -19,7 +19,7 @@ Built using Flutter and Dart (frontend) and Java Spring Boot (backend), using AP
 - Cloud Services: AWS Console
 - Version Control: Bitbucket
 
-  ## Note
+## Note
 
   The source code is hosted in a private Bitbucket repository and cannot be made public.
 
